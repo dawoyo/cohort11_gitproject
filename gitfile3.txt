@@ -10,3 +10,5 @@ List of Sports:
 9. Shortput
 10. Table Tennis
 11. Snooker
+12. Judo
+13. Lawn Tennis
