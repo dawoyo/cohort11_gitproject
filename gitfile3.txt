@@ -1,0 +1,9 @@
+List of Sports:
+1. Football
+2. Basket ball
+3. Swimming
+4. Hockey
+5. Volleyball
+6. Badminton
+7. Golf
+8. Curling
