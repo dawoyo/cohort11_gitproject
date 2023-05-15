@@ -9,3 +9,4 @@ List of Sports:
 8. Curling
 9. Shortput
 10. Table Tennis
+11. Snooker
