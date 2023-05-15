@@ -7,3 +7,6 @@ List of Sports:
 6. Badminton
 7. Golf
 8. Curling
+9. Shortput
+10. Table Tennis
+11. Snooker
